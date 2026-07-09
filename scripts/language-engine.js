@@ -27,12 +27,35 @@
 
       { selector: '[data-preview-item="text"] .section__heading, [data-preview-item="text-image"] .section__heading, .text-media .section__heading', key: "founder.title" },
       
-      { selector: '[data-preview-item="text"] .section__body p:nth-child(1), [data-preview-item="text-image"] .section__body p:nth-child(1)', key: "founder.welcome" },
-      { selector: '[data-preview-item="text"] .section__body p:nth-child(2), [data-preview-item="text-image"] .section__body p:nth-child(2)', key: "founder.paragraph_1" },
-      { selector: '[data-preview-item="text"] .section__body p:nth-child(3), [data-preview-item="text-image"] .section__body p:nth-child(3)', key: "founder.paragraph_2" },
-      { selector: '[data-preview-item="text"] .section__body p:nth-child(4), [data-preview-item="text-image"] .section__body p:nth-child(4)', key: "founder.paragraph_3" },
-      { selector: '[data-preview-item="text"] .section__body p:nth-child(5), [data-preview-item="text-image"] .section__body p:nth-child(5)', key: "founder.paragraph_4" },
-      { selector: '[data-preview-item="text"] .section__body p:nth-child(6), [data-preview-item="text-image"] .section__body p:nth-child(6)', key: "founder.paragraph_5" },
+// Founder
+{
+    selector: ".fr-view > p:nth-of-type(1)",
+    key: "founder.welcome"
+},
+{
+    selector: ".fr-view > p:nth-of-type(2)",
+    key: "founder.paragraph_1"
+},
+{
+    selector: ".fr-view > p:nth-of-type(3)",
+    key: "founder.paragraph_2"
+},
+{
+    selector: ".fr-view > p:nth-of-type(4)",
+    key: "founder.paragraph_3"
+},
+{
+    selector: ".fr-view > p:nth-of-type(5)",
+    key: "founder.paragraph_4"
+},
+{
+    selector: ".fr-view > p:nth-of-type(6)",
+    key: "founder.paragraph_5"
+},
+{
+    selector: ".fr-view > p:nth-of-type(7)",
+    key: "founder.signature"
+}
 
       { selector: '[data-preview-item="showcase"] .section__heading', key: "social.title" }
     ],
