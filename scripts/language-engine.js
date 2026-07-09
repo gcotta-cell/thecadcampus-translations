@@ -31,7 +31,7 @@
       { selector: '[data-preview-item="text"] p:nth-of-type(3), [data-preview-item="text-image"] p:nth-of-type(3)', key: "founder.paragraph_2" },
       { selector: '[data-preview-item="text"] p:nth-of-type(4), [data-preview-item="text-image"] p:nth-of-type(4)', key: "founder.paragraph_3" },
       { selector: '[data-preview-item="text"] p:nth-of-type(5), [data-preview-item="text-image"] p:nth-of-type(5)', key: "founder.paragraph_4" },
-      { selector: '[data-preview-item="text"] p:nth-of-type(6), [data-preview-item="text-image"] p:nth-of-type(6)', key: "founder.paragraph_5" }
+      { selector: '[data-preview-item="text"] p:nth-of-type(6), [data-preview-item="text-image"] p:nth-of-type(6)', key: "founder.paragraph_5" },
 
       { selector: '[data-preview-item="showcase"] .section__heading', key: "social.title" }
     ],
