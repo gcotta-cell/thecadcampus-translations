@@ -24,9 +24,9 @@
     "nx_mastery_description": "Desarrolla tus habilidades en Siemens NX mediante una ruta de formación completa. Los nuevos usuarios pueden comenzar con confianza, mientras que los usuarios con experiencia pueden aprender a obtener más de NX en su trabajo diario."
   },
   "classes": {
-    "title": "Clases disponibles",
-    "subtitle": "Explora cursos individuales diseñados para desarrollar habilidades específicas, o combínalos en rutas de aprendizaje completas que apoyen tu crecimiento profesional."
-    "button": "Ver todas las clases disponibles"
+  "title": "Clases disponibles",
+  "subtitle": "Explora cursos individuales diseñados para desarrollar habilidades específicas, o combínalos en rutas de aprendizaje completas que apoyen tu crecimiento profesional.",
+  "button": "Ver todas las clases disponibles"
   },
   "founder": {
     "title": "Por qué existe The CAD Campus",
