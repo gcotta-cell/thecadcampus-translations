@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "heading": "Domina habilidades de CAD e ingeniería usadas en la industria",
+    "subheading": "Aprende flujos de trabajo prácticos en NX, CATIA, surfacing e ingeniería mediante formación basada en experiencia real en aeroespacial, automotriz y desarrollo de productos."
+  },
+  "benefits": {
+    "experience_title": "Experiencia real en ingeniería",
+    "experience_text": "Aprende de décadas de experiencia resolviendo desafíos complejos de diseño e ingeniería.",
+    "focused_title": "Formación enfocada en la industria",
+    "focused_text": "Entrenamiento práctico y aplicable en CAD, diseño y flujos de trabajo de ingeniería.",
+    "trusted_title": "Confiado por profesionales",
+    "trusted_text": "Creado para ingenieros y diseñadores que trabajan en aeroespacial, automotriz y desarrollo de productos.",
+    "career_title": "Desarrolla habilidades y avanza tu carrera",
+    "career_text": "Obtén la experiencia necesaria para asumir proyectos más avanzados y crear nuevas oportunidades profesionales.",
+    "applications_title": "Aplicaciones reales",
+    "applications_text": "Aprende lo que la educación tradicional muchas veces no cubre, cerrando la brecha entre la escuela y la industria."
+  },
+  "programs": {
+    "title": "Programas de formación de principio a fin",
+    "subtitle": "Rutas de aprendizaje estructuradas para llevarte desde los fundamentos hasta la competencia a nivel de producción.",
+    "class_a_suite_title": "Suite de Class A Surfacing",
+    "class_a_suite_description": "Aprende las herramientas, métodos y técnicas esenciales para crear superficies Class A limpias, simples y completamente paramétricas en Siemens NX Shape Studio.",
+    "nx_mastery_title": "Suite de dominio de NX",
+    "nx_mastery_description": "Desarrolla tus habilidades en Siemens NX mediante una ruta de formación completa. Los nuevos usuarios pueden comenzar con confianza, mientras que los usuarios con experiencia pueden aprender a obtener más de NX en su trabajo diario."
+  },
+  "classes": {
+    "title": "Clases disponibles",
+    "button": "Ver todas las clases disponibles"
+  },
+  "founder": {
+    "title": "Por qué existe The CAD Campus",
+    "welcome": "Bienvenido a The CAD Campus.",
+    "paragraph_1": "A lo largo de mi carrera, he tenido la oportunidad de trabajar junto a algunos de los ingenieros, diseñadores y profesionales técnicos más talentosos del mundo. Algo que aprendí desde temprano es que la mejor educación no viene solo de los libros. Viene de personas que han enfrentado desafíos reales, resuelto problemas complejos y están dispuestas a compartir lo que han aprendido.",
+    "paragraph_2": "Esa convicción me inspiró a crear The CAD Campus.",
+    "paragraph_3": "Aunque mi experiencia abarca casi tres décadas en ingeniería y diseño, reconozco que ninguna persona puede ser experta en todas las disciplinas. Por eso decidí reunir a profesionales de la industria y expertos técnicos que comparten la pasión por enseñar y desarrollar a la próxima generación de ingenieros, diseñadores e innovadores.",
+    "paragraph_4": "Nuestro objetivo es simple: ofrecer formación práctica, impulsada por la industria, que te ayude a desarrollar habilidades que puedas aplicar inmediatamente en tu carrera. Cada curso se desarrolla con enfoque en aplicación real, crecimiento profesional y aprendizaje continuo.",
+    "paragraph_5": "Ya sea que estés comenzando tu camino o buscando ampliar tu experiencia, agradezco que hayas elegido formar parte de la comunidad de The CAD Campus. Espero poder apoyar tu crecimiento y éxito continuo.",
+    "signature": "Steven Marji",
+    "title_signature": "Fundador y Director de Programas"
+  },
+  "social": {
+    "title": "Ingenieros de estas organizaciones confían en nuestra experiencia"
+  }
+}
