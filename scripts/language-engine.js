@@ -1,5 +1,5 @@
 (function () {
-  const BASE_URL = "https://raw.githubusercontent.com/gcott/thecadcampus-translations/main/languages";
+  const BASE_URL = "https://raw.githubusercontent.com/gcotta-cell/thecadcampus-translations/main/languages";
   const DEFAULT_LANG = "en";
 
   const replacements = {
