@@ -3,7 +3,9 @@
   "programs": "Programs",
   "courses": "Courses",
   "why_cad_campus": "Why CAD Campus",
-  "dashboard": "My Dashboard",
   "sign_in": "Sign In",
-  "language": "Language"
+  "dashboard": "My Dashboard",
+  "language": "Language",
+  "english": "English",
+  "spanish": "Español"
 }
