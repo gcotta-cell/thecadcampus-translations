@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "heading": "Master Industry-Proven CAD & Engineering Skills",
+    "subheading": "Learn practical NX, CATIA, surfacing, and engineering workflows through real-world training built from aerospace, automotive, and product development experience."
+  },
+  "benefits": {
+    "experience_title": "Real Engineering Experience",
+    "experience_text": "Learn from decades of industry experience solving complex design and engineering challenges.",
+    "focused_title": "Industry-Focused Training",
+    "focused_text": "Practical, application-based training in CAD, design, and engineering workflows.",
+    "trusted_title": "Trusted by Professionals",
+    "trusted_text": "Built for engineers and designers working across aerospace, automotive, and product development.",
+    "career_title": "Build Skills, Advance Your Career",
+    "career_text": "Gain the expertise to take on advanced projects and create new professional opportunities.",
+    "applications_title": "Real-World Applications",
+    "applications_text": "Learn what traditional education often leaves out, closing the gap between school and industry."
+  },
+  "programs": {
+    "title": "End-to-End Training Programs",
+    "subtitle": "Structured learning paths designed to take you from fundamentals to production-level proficiency.",
+    "class_a_suite_title": "Class A Surfacing Suite",
+    "class_a_suite_description": "Learn the essential tools, methods, and techniques used to create clean, simple, fully parametric Class A surfaces in Siemens NX Shape Studio.",
+    "nx_mastery_title": "NX Mastery Suite",
+    "nx_mastery_description": "Build your Siemens NX skills through a comprehensive training path. New users can launch with confidence, while experienced users can learn how to get more from NX in daily work."
+  },
+  "classes": {
+    "title": "Available Classes",
+    "button": "View All Available Classes"
+  },
+  "founder": {
+    "title": "Why The CAD Campus Exists",
+    "welcome": "Welcome to The CAD Campus.",
+    "paragraph_1": "Throughout my career, I have had the opportunity to work alongside some of the most talented engineers, designers, and technical professionals in the world. One thing I learned early on is that the best education does not come from textbooks alone. It comes from people who have faced real challenges, solved complex problems, and are willing to share what they have learned.",
+    "paragraph_2": "That belief inspired me to create The CAD Campus.",
+    "paragraph_3": "While my own experience spans nearly three decades in engineering and design, I recognized that no single person can be an expert in every discipline. That is why I set out to bring together industry professionals and subject matter experts who share a passion for teaching and developing the next generation of engineers, designers, and innovators.",
+    "paragraph_4": "Our goal is simple: provide practical, industry-driven training that helps you build skills you can immediately apply in your career. Every course is developed with a focus on real-world application, professional growth, and lifelong learning.",
+    "paragraph_5": "Whether you are just starting your journey or looking to expand your expertise, I am grateful that you have chosen to be part of The CAD Campus community. I look forward to supporting your continued growth and success.",
+    "signature": "Steven Marji",
+    "title_signature": "Founder & Program Director"
+  },
+  "social": {
+    "title": "Trusted By Engineers From"
+  }
+}
