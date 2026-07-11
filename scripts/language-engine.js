@@ -61,14 +61,25 @@
     setText('[data-preview-item="course-cards"] .section__subheading', home.programs?.subtitle);
   }
 
-  function translateClasses(home) {
-    setText('[data-preview-item="products"] .section__heading, .products .section__heading', home.classes?.title);
-    setText('[data-preview-item="products"] .section__subheading, .products .section__subheading', home.classes?.subtitle);
-    setText('[data-preview-item="products"] .button, .products .button', home.classes?.button);
-  }
+function translateClasses(home) {
+  setText(
+    '[data-preview-item="products"] .section__heading, .products .section__heading',
+    home.classes && home.classes.title
+  );
 
-  function translateFounder(home) {
-    const founder = home.founder || {};
+  setText(
+    '[data-preview-item="products"] .section__subheading, .products .section__subheading',
+    home.classes && home.classes.subtitle
+  );
+
+  setText(
+    '[data-preview-item="products"] .button, .products .button',
+    home.classes && home.classes.button
+  );
+}
+
+function translateFounder(home) {
+  const founder = home.founder || {};
 
     setText('.rich-text__wrapper .section__heading', founder.title);
 
