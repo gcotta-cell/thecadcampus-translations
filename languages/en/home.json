@@ -28,6 +28,50 @@
     "subtitle": "Explore individual courses designed to build specific skills, or combine them into complete learning paths that support your professional growth.",
     "button": "View All Available Classes"
   },
+  "program_cards": [
+  {
+    "title": "Class A Surfacing Suite",
+    "type": "Bundle",
+    "description": "Learn the essential tools, methods, and techniques used to create clean, simple, fully parametric Class A surfaces in Siemens NX Shape Studio."
+  },
+  {
+    "title": "NX Mastery Suite",
+    "type": "Bundle",
+    "description": "Transform your CAD skills with our comprehensive Siemens NX training bundle. New users can launch their careers with confidence, while experienced users can learn how to get more from NX in their daily work."
+  }
+],
+"course_cards": [
+  {
+    "title": "Advanced Tools and Methods",
+    "type": "Course",
+    "description": "Learn advanced sketch tools and methods, effective Part Navigator organization, and the use of assembly joints and couplers."
+  },
+  {
+    "title": "NURBS Modeling Essentials",
+    "type": "Course",
+    "description": "Master NURBS modeling by creating and editing curves and surfaces through practical exercises ranging from basic to intermediate concepts."
+  },
+  {
+    "title": "Assembly Design in Siemens NX",
+    "type": "Course",
+    "description": "Learn how to create and modify assemblies in Siemens NX, including inter-part linking, assembly constraints, and advanced assembly workflows."
+  },
+  {
+    "title": "Siemens NX Drafting Mastery",
+    "type": "Course",
+    "description": "Master Siemens NX drafting, from setup and view creation to dimensions, annotations, and drawing revisions."
+  },
+  {
+    "title": "Siemens NX Interface Basics",
+    "type": "Course",
+    "description": "Get started with Siemens NX by mastering the interface, customizing your workspace, learning essential tools, and improving your workflow."
+  },
+  {
+    "title": "Assembly Design in Siemens NX",
+    "type": "Course",
+    "description": "Learn how to create and modify assemblies in Siemens NX, including inter-part linking, assembly constraints, and advanced assembly workflows."
+  }
+]
   "founder": {
     "title": "Why The CAD Campus Exists",
     "welcome": "Welcome to The CAD Campus.",
