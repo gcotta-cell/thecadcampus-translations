@@ -60,6 +60,51 @@
     setText('[data-preview-item="course-cards"] .section__heading', home.programs?.title);
     setText('[data-preview-item="course-cards"] .section__subheading', home.programs?.subtitle);
   }
+  function translateCards(sectionSelector, translations) {
+  if (!Array.isArray(translations)) return;
+
+  const cards = document.querySelectorAll(`${sectionSelector} .card`);
+
+  cards.forEach((card, index) => {
+    const translation = translations[index];
+    if (!translation) return;
+
+    const title = card.querySelector(".card__name");
+    const type = card.querySelector(".card__product-info");
+    const description = card.querySelector(".card__description");
+
+    if (title && translation.title) {
+      title.textContent = translation.title;
+    }
+
+    if (type && translation.type) {
+      const icon = type.querySelector("i");
+      type.textContent = translation.type;
+
+      if (icon) {
+        type.insertBefore(icon, type.firstChild);
+      }
+    }
+
+    if (description && translation.description) {
+      description.textContent = translation.description;
+    }
+  });
+}
+
+function translateProgramCards(home) {
+  translateCards(
+    '[data-preview-item="products"]',
+    home.program_cards
+  );
+}
+
+function translateCourseCards(home) {
+  translateCards(
+    '[data-preview-item="course-cards"]',
+    home.course_cards
+  );
+}
 
 function translateClasses(home) {
   setText(
@@ -146,9 +191,12 @@ function translateFounder(home) {
       translateHero(home);
       translateIconText(home);
       translatePrograms(home);
+      translateProgramCards(home);
       translateClasses(home);
+      translateCourseCards(home);
       translateFounder(home);
       translateSocial(home);
+      
 
       localStorage.setItem(STORAGE_KEY, lang);
       document.documentElement.lang = lang;
