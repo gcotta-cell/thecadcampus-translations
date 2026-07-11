@@ -28,6 +28,50 @@
   "subtitle": "Explora cursos individuales diseñados para desarrollar habilidades específicas, o combínalos en rutas de aprendizaje completas que apoyen tu crecimiento profesional.",
   "button": "Ver todas las clases disponibles"
   },
+  "program_cards": [
+  {
+    "title": "Suite de superficies Class A",
+    "type": "Programa",
+    "description": "Aprende las herramientas, los métodos y las técnicas esenciales para crear superficies Class A limpias, simples y completamente paramétricas en Siemens NX Shape Studio."
+  },
+  {
+    "title": "Suite de dominio de NX",
+    "type": "Programa",
+    "description": "Transforma tus habilidades de CAD con una ruta completa de formación en Siemens NX. Los nuevos usuarios pueden comenzar con confianza, mientras que los usuarios con experiencia pueden aprender a obtener más de NX en su trabajo diario."
+  }
+],
+"course_cards": [
+  {
+    "title": "Herramientas y métodos avanzados",
+    "type": "Curso",
+    "description": "Aprende herramientas y métodos avanzados de Sketch, una organización eficaz del Part Navigator y el uso de juntas y acopladores de ensambles."
+  },
+  {
+    "title": "Fundamentos de modelado NURBS",
+    "type": "Curso",
+    "description": "Domina el modelado NURBS creando y editando curvas y superficies mediante ejercicios prácticos desde conceptos básicos hasta intermedios."
+  },
+  {
+    "title": "Diseño de ensambles en Siemens NX",
+    "type": "Curso",
+    "description": "Aprende a crear y modificar ensambles en Siemens NX, incluyendo vínculos entre piezas, restricciones y flujos de trabajo avanzados."
+  },
+  {
+    "title": "Dominio del drafting en Siemens NX",
+    "type": "Curso",
+    "description": "Domina el drafting en Siemens NX, desde la configuración y creación de vistas hasta dimensiones, anotaciones y revisiones de planos."
+  },
+  {
+    "title": "Fundamentos de la interfaz de Siemens NX",
+    "type": "Curso",
+    "description": "Comienza con Siemens NX dominando la interfaz, personalizando tu espacio de trabajo, aprendiendo herramientas esenciales y mejorando tu flujo de trabajo."
+  },
+  {
+    "title": "Diseño de ensambles en Siemens NX",
+    "type": "Curso",
+    "description": "Aprende a crear y modificar ensambles en Siemens NX, incluyendo vínculos entre piezas, restricciones y flujos de trabajo avanzados."
+  }
+]
   "founder": {
     "title": "Por qué existe The CAD Campus",
     "welcome": "Bienvenido a The CAD Campus.",
